@@ -1,11 +1,11 @@
 title: Zhexuan Yin # your name (or website title) here
-logo: "/images/IMG_0811.JPG" # your photo (or logo) here
+logo: "/images/15b39af3dcc04bb69c37bf4b09d51cee.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  TCD Postgrad | Trilingual (CH/EN/GD) | Data Analysis & Operations Specialist | Data-Driven & Collaborative | Based in Dublin
   <br><br>
-  Second description 
+  M.Sc. Masters degree graduates in Applied Social Data Science at Trinity College Dublin with a strong foundation in data analysis, visualization, and machine learning. Experienced in using R, Python, SQL, SPSS, Stata, Latex, R Markdown, Tableau, Excel, and Power BI for data-driven projects; familiar with NLP techniques and CRM systems through academic coursework and projects. Excellent communicator (fluent in English and Mandarin) with proven ability to collaborate in cross-cultural teams. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="http://linkedin.com/in/zhexuan-yin-605072370">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
