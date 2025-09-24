@@ -5,7 +5,7 @@
 ### Projects 
 
 [UN Parliamentary Speech Mining (NLP Analysis)](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/截屏2025-09-04 17.59.02.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
