@@ -8,11 +8,11 @@
 <img src="images/截屏2025-09-04 17.59.02.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[The 2nd "Greater Bay Area Cup" Guangdong-Hong Kong-Macao Financial Mathematics Modeling Contest](/pdf/sample_presentation.pdf)
+<img src="images/截屏2025-09-04 17.45.20.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Analysis of factors affecting the decline in birth rate based on generalized regression model](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
